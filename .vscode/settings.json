@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/be224b30-4da8-4e7d-906a-857a9e010d6b/resourceGroups/demoResource/providers/Microsoft.Web/sites/eric-demo-expressjs",
+    "appService.deploySubpath": "."
+}
